@@ -1,4 +1,4 @@
-[![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)]
+![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)
 <h1 align="center">Hi 👋, I'm José Luiz</h1>
 <h3 align="center">A Business/ Data Analyst passionate about bringing solutions</h3>
 
